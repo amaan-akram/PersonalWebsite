@@ -3,7 +3,12 @@
     src: url(font/Adam.otf); 
 }
 
-a{
+body{
+    font-weight: 500;
+    color: rgb(85, 62, 107);
+}
+
+a{ 
     font-weight: 900;
     font-size: larger;
     color:#9a65fc;
@@ -36,8 +41,11 @@ h1{
     color: rgb(89, 6, 167);
 }
 
-.banner{
-    object-fit: cover;
-    height: 400px;
-    width: 100%;
+
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%; 
+    background-image: url(img/banner.jpg);
 }
