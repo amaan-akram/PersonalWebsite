@@ -1,5 +1,43 @@
+@font-face {
+    font-family: 'adam'; /*a name to be used later*/
+    src: url(font/Adam.otf); 
+}
+
+a{
+    font-weight: 900;
+    font-size: larger;
+    color:#9a65fc;
+    font-family: adam;
+    text-decoration: none;
+}
+
+a:hover{
+    color:#9a65fc93;
+    transition: ease-in-out;
+    transition-duration: 300ms;
+    text-decoration: none;
+}
+
+#cv{
+    text-decoration: none;
+    padding:0;
+    color:#9a65fc;
+    font-family:adam;
+    font-size: 0.8em;
+    font-weight: bolder;
+
+}
+
+body{
+    background-color: rgb(10, 0, 14);
+}
+
+h1{
+    color: rgb(89, 6, 167);
+}
+
 .banner{
     object-fit: cover;
-    height: 550px;
+    height: 400px;
     width: 100%;
 }
