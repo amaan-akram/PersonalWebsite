@@ -79,9 +79,4 @@ h1{
     color: rgb(182, 144, 218);
 }
 
-/*Card images*/
-.card-img-top {
-    width: 100%;
-    height: 20vw;
-    object-fit: contain;
-}
+
