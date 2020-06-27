@@ -1,0 +1,105 @@
+/*--------------------------------------------------*/
+
+/*font initialize*/
+@font-face {
+    font-family: 'adam'; /*a name to be used later*/
+    src: url(font/Adam.otf); 
+}
+
+/*--------------------------------------------------*/
+
+/*Global Styles*/
+body{
+    font-weight: 500;
+    color: rgb(165, 165, 165);
+    background-color: rgb(10, 0, 14);
+}
+
+nav a{ 
+    font-weight: 900;
+    font-size: larger;
+    font-family: adam;
+}
+
+a:hover{
+    color:#9a65fc93;
+    transition: ease-in-out;
+    transition-duration: 100ms;
+}
+
+h1{
+    color: rgb(89, 6, 167);
+}
+
+hr{
+  border-color: #9a65fc93
+}
+
+/*--------------------------------------------------*/
+
+/*Background*/
+.bg{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%; 
+    background-image: url(img/banner.jpg);
+}
+
+/*--------------------------------------------------*/
+
+/*Navbar Links*/
+#name{
+    color:#9a65fc;
+    
+}
+
+#name:hover{
+    color:#9a65fc93;
+    transition: ease-in-out;
+    transition-duration: 100ms;
+}
+
+/*--------------------------------------------------*/
+
+
+
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+/*setup page*/
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+
+/*Header*/
+.jumbotron {
+    background-image: url("/img/setup/IMG_3566.jpg");
+    background-size: cover;
+    background-position:center;
+    
+  }
+
+  
+.jumbotron h1{
+    color: rgb(182, 144, 218);
+}
+
+
+
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+/*Blog page*/
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+
+/*Header*/
+#blogheader{
+    background-image: url("/img/blog/banner/IMG_1650.jpg");
+    background-size: cover;
+    background-position:center;
+    
+  }
+
+  
+.jumbotron h1{
+    color: rgb(182, 144, 218);
+}
