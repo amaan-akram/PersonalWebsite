@@ -1,90 +1,73 @@
 /*Hidden Content*/
-body{soverflow-y: scroll;}
 
-
-
-#hidden-content #container h1{
-    padding:20px;
-    margin-bottom:0;
+#hidden-content #container h1 {
+    padding: 20px;
+    margin-bottom: 0;
     position: relative;
 }
 
-#hidden-content h1:hover{cursor:pointer;}
-#hidden-content h3:hover{cursor:pointer;}
-
-#hidden-content div.expand{
-    display:none;
-    margin-top:0px;
-    padding: 10px 20px 20px 20px;
-    z-index:-4;
+#hidden-content h1:hover {
+    cursor: pointer;
 }
 
-#hidden-content div.expand1{
-    display:none;
-    margin-top:0px;
-    padding: 10px 20px 20px 20px;
-    z-index:-4;
+#hidden-content h3:hover {
+    cursor: pointer;
 }
 
-#hidden-content div.expand2{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand3{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand1 {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand4{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand2 {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand5{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand3 {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand6{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand4 {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand7{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expand5 {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand8{
-    display:none;
-    margin-top:0px;
+#hidden-content div.expandFirstAutomatedBlogEntry {
+    display: none;
+    margin-top: 0px;
     padding: 10px 20px 20px 20px;
-    z-index:-4;
+    z-index: -4;
 }
 
-#hidden-content div.expand9{
-    display:none;
-    margin-top:0px;
-    padding: 10px 20px 20px 20px;
-    z-index:-4;
+#hidden-content div.expandFIrstAutomatedBlogEntry{
+display:none;
+margin-top:0px;
+padding: 10px 20px 20px 20px;
+z-index:-4;
 }
 
-#hidden-content div.expand10{
-    display:none;
-    margin-top:0px;
-    padding: 10px 20px 20px 20px;
-    z-index:-4;
-}
+        
