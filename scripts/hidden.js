@@ -33,3 +33,9 @@ $(".expandFIrstAutomatedBlogEntry").slideToggle();
 });
     
     
+
+$(".clickTheFinalYear").click(function(){
+$(".expandTheFinalYear").slideToggle();
+});
+    
+    
