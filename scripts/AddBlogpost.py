@@ -15,7 +15,7 @@ def writeToHTML():
     contents = f.readlines()    #getting ready to insert in specific line
     f.close()
 
-    contents.insert(90, 
+    contents.insert(96, 
     """
 
 <div id="hidden-content">
