@@ -40,14 +40,8 @@ $(".expandTheFinalYear").slideToggle();
     
     
 
-$(".clickThesisTopicFinalised!!!").click(function(){
-$(".expandThesisTopicFinalised!!!").slideToggle();
-});
-    
-    
-
-$(".click").click(function(){
-$(".expand").slideToggle();
+$(".clickThesisTopicFinalised").click(function(){
+$(".expandThesisTopicFinalised").slideToggle();
 });
     
     

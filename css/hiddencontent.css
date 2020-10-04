@@ -81,20 +81,9 @@ z-index:-4;
 
         
 
-#hidden-content div.expandThesisTopicFinalised!!!{
+#hidden-content div.expandThesisTopicFinalised{
 display:none;
 margin-top:0px;
 padding: 10px 20px 20px 20px;
 z-index:-4;
 }
-
-        
-
-#hidden-content div.expand{
-display:none;
-margin-top:0px;
-padding: 10px 20px 20px 20px;
-z-index:-4;
-}
-
-        
