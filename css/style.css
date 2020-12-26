@@ -125,3 +125,22 @@ hr{
 .jumbotron h1{
     color: rgb(182, 144, 218);
 }
+
+
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+/*Gallery page*/
+/*--------------------------------------------------*/
+/*--------------------------------------------------*/
+/*Header*/
+#galleryheader{
+    background-image: url("/img/gallery/banner2.JPG");
+    background-size: cover;
+    background-position:center;
+    
+  }
+
+  
+.jumbotron h1{
+    color: rgb(182, 144, 218);
+}
