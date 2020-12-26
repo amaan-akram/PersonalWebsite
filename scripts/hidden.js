@@ -45,3 +45,9 @@ $(".expandThesisTopicFinalised").slideToggle();
 });
     
     
+
+$(".clickFinalYearpart1Over").click(function(){
+$(".expandFinalYearpart1Over").slideToggle();
+});
+    
+    
