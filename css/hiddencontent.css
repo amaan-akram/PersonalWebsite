@@ -87,3 +87,13 @@ margin-top:0px;
 padding: 10px 20px 20px 20px;
 z-index:-4;
 }
+
+
+#hidden-content div.expandFinalYearpart1Over{
+display:none;
+margin-top:0px;
+padding: 10px 20px 20px 20px;
+z-index:-4;
+}
+
+        
