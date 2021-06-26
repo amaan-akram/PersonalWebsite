@@ -28,6 +28,10 @@ $(".click6").click(function() {
     $(".expand6").slideToggle();
 });
 
+$(".click7").click(function() {
+    $(".expand7").slideToggle();
+});
+
 $(".clickFIrstAutomatedBlogEntry").click(function(){
 $(".expandFIrstAutomatedBlogEntry").slideToggle();
 });
@@ -48,6 +52,12 @@ $(".expandThesisTopicFinalised").slideToggle();
 
 $(".clickFinalYearpart1Over").click(function(){
 $(".expandFinalYearpart1Over").slideToggle();
+});
+    
+    
+
+$(".clickGraduationandFirstMonthasSoftwareEngineer").click(function(){
+$(".expandGraduationandFirstMonthasSoftwareEngineer").slideToggle();
 });
     
     
