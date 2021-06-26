@@ -1,5 +1,3 @@
-
-
 var TxtRotate = function(el, toRotate, period) {
     this.toRotate = toRotate;
     this.el = el;
@@ -48,7 +46,7 @@ var TxtRotate = function(el, toRotate, period) {
     }, delta);
   };
   
-  window.onload = function() {
+  window.onload = () =>  {
     var elements = document.getElementsByClassName('txt-rotate');
     for (var i=0; i<elements.length; i++) {
       var toRotate = elements[i].getAttribute('data-rotate');

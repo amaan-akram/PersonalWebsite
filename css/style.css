@@ -3,7 +3,7 @@
 /*font initialize*/
 @font-face {
     font-family: 'adam'; /*a name to be used later*/
-    src: url(font/Adam.otf); 
+    src: url(/font/Adam.otf); 
 }
 
 /*--------------------------------------------------*/
@@ -45,8 +45,7 @@ nav a{
 
 a:hover{
     color:#9a65fc93;
-    transition: ease-in-out;
-    transition-duration: 100ms;
+    transition:all ease-in-out 200ms;
 }
 
 h1{
@@ -65,7 +64,7 @@ hr{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%; 
-    background-image: url("img/banner.jpg");
+    background-image: url("/img/banner.jpg");
 }
 
 /*--------------------------------------------------*/
@@ -81,10 +80,6 @@ hr{
     transition: ease-in-out;
     transition-duration: 100ms;
 }
-
-/*--------------------------------------------------*/
-
-
 
 /*--------------------------------------------------*/
 /*--------------------------------------------------*/
