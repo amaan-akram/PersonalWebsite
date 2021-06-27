@@ -121,6 +121,24 @@ hr{
     color: rgb(182, 144, 218);
 }
 
+iframe {
+    margin: 0 auto;
+    background-color: #777;
+    display: block;
+}
+
+@media only screen and (max-width:800px) {
+    iframe {
+        width: 300px;
+        height: 168px;
+        margin: 0 auto;
+        background-color: #777;
+        display: block;
+    }
+    
+    
+}
+
 
 /*--------------------------------------------------*/
 /*--------------------------------------------------*/
